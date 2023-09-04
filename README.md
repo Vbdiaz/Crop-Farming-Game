@@ -5,6 +5,8 @@ Object-oriented final project for a computer science class using Visual Studio.
 User interactive game using pointers, objects, and basic game loops.  
 Implemented multiple libraries, classes, and features to save and load previously saved files.
 
+Video presentation: https://www.youtube.com/watch?v=aS9iPjPnYsc&t=20s
+
 How to play:
 It is a simple game where you have the option to grow a crop and help it survive 10 days to win. 
 Everyday you must make a decision towards the crop. 
